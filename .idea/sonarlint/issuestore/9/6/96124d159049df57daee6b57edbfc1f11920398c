@@ -1,0 +1,6 @@
+
+ppython:S1542="SRename function "ReleaseKey" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÀÓŸÿûÿÿÿÿ
+rpython:S1176"VRename this parameter "hexKeyCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷Õ€‚ÿÿÿÿÿ
+cpython:S101+"LRename class "Input_I" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.( ‚Áˆ
+npython:S15426"QRename function "PressKey" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷Õ€‚ÿÿÿÿÿ
+rpython:S117="VRename this parameter "hexKeyCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀÓŸÿûÿÿÿÿ
